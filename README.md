@@ -1,1 +1,1 @@
-# emai-spam
+# email-spam
